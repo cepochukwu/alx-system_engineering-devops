@@ -5,3 +5,5 @@ The second example starts with an unsorted list of data with duplicate entries. 
 Viewing the contents of tar files Often you will see software distributed as a gzipped tar file. This is a traditional Unix style tape archive file (created with tar) that has been compressed with gzip. You can recognize these files by their traditional file extensions, ".tar.gz" or ".tgz". You can use the following command to view the directory of such a file on a Linux system:
 
 tar tzvf name_of_file.tar.gz | less
+tar tzvf name_of_file.tar.gz | less
+tar tzvf name_of_file.tar.gz | less
